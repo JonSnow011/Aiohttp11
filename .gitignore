@@ -6,3 +6,4 @@ adverts.db
 *.pyc
 *.pyo
 *.pyd
+.idea/
