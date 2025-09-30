@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+.env
+adverts.db
+*.pyc
+*.pyo
+*.pyd
